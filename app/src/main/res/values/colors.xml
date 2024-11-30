@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA726</color> <!-- Naranja claro -->
+    <color name="colorPrimaryDark">#FB8C00</color> <!-- Naranja más oscuro -->
+    <color name="colorAccent">#FFD600</color> <!-- Amarillo brillante -->
+</resources>
